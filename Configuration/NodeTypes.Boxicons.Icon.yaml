@@ -1,0 +1,9 @@
+'Aim29.Boxicons.Icon:Icon':
+  superTypes:
+    'Neos.Neos:Content': true
+    'Aim29.Boxicons.Icon:IconMixin': true
+  ui:
+    label: i18n
+    icon: 'fas fa-flag'
+    group: general
+    inlineEditable: false

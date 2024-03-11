@@ -1,22 +1,18 @@
-VIVOMEDIA:
-  FontAwesome:
+Aim29:
+  Boxicons:
     Icon:
-      licence: free #pro
-      version: 5.12.1
       styles: # enable or disable styles
-        solid: true
-        light: true
         regular: true
-        brands: true
-        duotone: false
+        solid: true
+        logos: true
 
 Neos:
   Neos:
     fusion:
       autoInclude:
-        VIVOMEDIA.FontAwesome.Icon: true
+        Aim29.Boxicons.Icon: true
     userInterface:
       translation:
         autoInclude:
-          VIVOMEDIA.FontAwesome.Icon:
+          Aim29.Boxicons.Icon:
             - 'NodeTypes/*'

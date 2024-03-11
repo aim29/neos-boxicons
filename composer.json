@@ -1,7 +1,7 @@
 {
-    "name": "vivomedia/neos-fontawesome-icon",
+    "name": "aim29/neos-boxicons",
     "type": "neos-plugin",
-    "description": "Neos CMS Components and NodeType for FontAwesome-Icons",
+    "description": "Neos CMS Components and NodeType for Boxicons",
     "license": "MIT",
     "require": {
         "neos/neos": ">=5.2",
@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "VIVOMEDIA\\FontAwesome\\Icon\\": "Classes"
+            "Aim29\\Boxicons\\Icon\\": "Classes"
         }
     },
     "extra": {

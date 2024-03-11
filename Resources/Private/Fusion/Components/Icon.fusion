@@ -1,70 +1,9 @@
-prototype(VIVOMEDIA.FontAwesome.Icon:IconComponent) < prototype(Neos.Fusion:Component) {
+prototype(Aim29.Boxicons.Icon:IconComponent) < prototype(Neos.Fusion:Component) {
+	icon = ''
+	size = ''
+	hasBorder = false
 
 	renderer = afx`
-		<VIVOMEDIA.FontAwesome.Icon:IconWrapper size={props.size} hasBorder={props.hasBorder} class={props.class}>
-			<VIVOMEDIA.FontAwesome.Icon:IconLayer icon={props.icon} isInversed={false} />
-		</VIVOMEDIA.FontAwesome.Icon:IconWrapper>
-	`
-}
-
-prototype(VIVOMEDIA.FontAwesome.Icon:StackedIconComponent) < prototype(Neos.Fusion:Component) {
-
-	renderer = afx`
-		<VIVOMEDIA.FontAwesome.Icon:IconWrapper size={props.size} hasBorder={props.hasBorder} class={props.class} isStack="true">
-			<VIVOMEDIA.FontAwesome.Icon:IconLayer icon={props.backgroundIcon} size="stack-2x" />
-			<VIVOMEDIA.FontAwesome.Icon:IconLayer icon={props.icon} size="stack-1x" isInversed={props.iconInversed} />
-		</VIVOMEDIA.FontAwesome.Icon:IconWrapper>
-	`
-}
-
-
-prototype(VIVOMEDIA.FontAwesome.Icon:IconWrapper) < prototype(Neos.Fusion:Component) {
-
-	@context {
-		size = ${this.size}
-		isStack = ${this.isStack}
-		hasBorder = ${this.hasBorder}
-	}
-
-	class = Neos.Fusion:RawArray
-
-	class.@process.addStack = ${Array.push(value, isStack ? 'fa-stack' : '')}
-	class.@process.addBorder = ${Array.push(value, hasBorder ? 'fa-border' : '')}
-	class.@process.addSize = ${Array.push(value, size ? 'fa-' + size : '')}
-
-	style = Neos.Fusion:RawArray {
-		fixLineHeight = Neos.Fusion:Value {
-			value = 'line-height: 2em'
-			@if.isStack = ${isStack}
-			@if.isInBackend = ${documentNode.context.inBackend}
-		}
-	}
-
-
-	renderer = afx`
-		<span class={props.class} style={props.style}>{props.content}</span>
-	`
-}
-
-prototype(VIVOMEDIA.FontAwesome.Icon:IconLayer) < prototype(Neos.Fusion:Component) {
-
-	icon = ${''}
-	size = ${''}
-	isInversed = ${false}
-
-	@context {
-		icon = ${this.icon}
-		size = ${this.size}
-		isInversed = ${this.isInversed}
-	}
-
-	class = Neos.Fusion:RawArray {
-		icon = ${icon}
-		size = ${size ? 'fa-' + size : ''}
-		inverse = ${isInversed ? 'fa-inverse' : ''}
-	}
-
-	renderer = afx`
-		<i class={props.class} aria-hidden="true">{props.content}</i>
+		<i class={props.icon + (props.size ? ' bx-' + props.size : '') + (props.hasBorder ? ' bx-border' : '')} aria-hidden="true"></i>
 	`
 }

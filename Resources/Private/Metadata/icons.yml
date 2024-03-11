@@ -1,0 +1,7800 @@
+500px:
+  label: 500px
+  search:
+    terms: []
+  styles:
+  - logos
+99designs:
+  label: 99designs
+  search:
+    terms: []
+  styles:
+  - logos
+abacus:
+  label: abacus
+  search:
+    terms: []
+  styles:
+  - regular
+accessibility:
+  label: accessibility
+  search:
+    terms:
+    - handicap
+    - wheelchair
+    - injury
+  styles:
+  - regular
+add-to-queue:
+  label: add-to-queue
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+adjust:
+  label: adjust
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+adjust-alt:
+  label: adjust-alt
+  search:
+    terms: []
+  styles:
+  - solid
+adobe:
+  label: adobe
+  search:
+    terms: []
+  styles:
+  - logos
+airbnb:
+  label: airbnb
+  search:
+    terms: []
+  styles:
+  - logos
+alarm:
+  label: alarm
+  search:
+    terms:
+    - alert
+    - alert
+  styles:
+  - regular
+  - solid
+alarm-add:
+  label: alarm-add
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+alarm-exclamation:
+  label: alarm-exclamation
+  search:
+    terms:
+    - alert
+    - error
+    - alert
+    - error
+  styles:
+  - regular
+  - solid
+alarm-off:
+  label: alarm-off
+  search:
+    terms:
+    - alert
+    - silent
+    - alert
+    - silent
+  styles:
+  - regular
+  - solid
+alarm-snooze:
+  label: alarm-snooze
+  search:
+    terms:
+    - alert
+    - zzz
+    - sleep
+    - alert
+    - zzz
+    - sleep
+  styles:
+  - regular
+  - solid
+album:
+  label: album
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+algolia:
+  label: algolia
+  search:
+    terms: []
+  styles:
+  - logos
+align-justify:
+  label: align-justify
+  search:
+    terms: []
+  styles:
+  - regular
+align-left:
+  label: align-left
+  search:
+    terms: []
+  styles:
+  - regular
+align-middle:
+  label: align-middle
+  search:
+    terms: []
+  styles:
+  - regular
+align-right:
+  label: align-right
+  search:
+    terms: []
+  styles:
+  - regular
+amazon:
+  label: amazon
+  search:
+    terms: []
+  styles:
+  - logos
+ambulance:
+  label: ambulance
+  search:
+    terms: []
+  styles:
+  - solid
+analyse:
+  label: analyse
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+anchor:
+  label: anchor
+  search:
+    terms: []
+  styles:
+  - regular
+android:
+  label: android
+  search:
+    terms: []
+  styles:
+  - logos
+angry:
+  label: angry
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+angular:
+  label: angular
+  search:
+    terms: []
+  styles:
+  - logos
+aperture:
+  label: aperture
+  search:
+    terms: []
+  styles:
+  - regular
+apple:
+  label: apple
+  search:
+    terms: []
+  styles:
+  - logos
+arch:
+  label: arch
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+archive:
+  label: archive
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+archive-in:
+  label: archive-in
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+archive-out:
+  label: archive-out
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+area:
+  label: area
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+arrow-back:
+  label: arrow-back
+  search:
+    terms: []
+  styles:
+  - regular
+arrow-from-bottom:
+  label: arrow-from-bottom
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+arrow-from-left:
+  label: arrow-from-left
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+arrow-from-right:
+  label: arrow-from-right
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+arrow-from-top:
+  label: arrow-from-top
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+arrow-to-bottom:
+  label: arrow-to-bottom
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+arrow-to-left:
+  label: arrow-to-left
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+arrow-to-right:
+  label: arrow-to-right
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+arrow-to-top:
+  label: arrow-to-top
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+at:
+  label: at
+  search:
+    terms: []
+  styles:
+  - regular
+atom:
+  label: atom
+  search:
+    terms: []
+  styles:
+  - regular
+audible:
+  label: audible
+  search:
+    terms: []
+  styles:
+  - logos
+award:
+  label: award
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+aws:
+  label: aws
+  search:
+    terms: []
+  styles:
+  - logos
+baby-carriage:
+  label: baby-carriage
+  search:
+    terms:
+    - child
+    - pregnancy
+    - birth
+  styles:
+  - solid
+backpack:
+  label: backpack
+  search:
+    terms: []
+  styles:
+  - solid
+badge:
+  label: badge
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+badge-check:
+  label: badge-check
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+badge-dollar:
+  label: badge-dollar
+  search:
+    terms: []
+  styles:
+  - solid
+baguette:
+  label: baguette
+  search:
+    terms:
+    - bread
+    - bake
+    - baking
+    - food
+    - nutrition
+    - bread
+    - bake
+    - baking
+    - food
+    - nutrition
+  styles:
+  - solid
+  - regular
+baidu:
+  label: baidu
+  search:
+    terms: []
+  styles:
+  - logos
+ball:
+  label: ball
+  search:
+    terms:
+    - football
+    - rugby
+    - football
+    - rugby
+  styles:
+  - regular
+  - solid
+balloon:
+  label: balloon
+  search:
+    terms: []
+  styles:
+  - solid
+band-aid:
+  label: band-aid
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bank:
+  label: bank
+  search:
+    terms:
+    - institution
+    - money
+    - safe
+  styles:
+  - solid
+bar-chart:
+  label: bar-chart
+  search:
+    terms: []
+  styles:
+  - regular
+bar-chart-alt:
+  label: bar-chart-alt
+  search:
+    terms: []
+  styles:
+  - regular
+bar-chart-alt-2:
+  label: bar-chart-alt-2
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bar-chart-square:
+  label: bar-chart-square
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+barcode:
+  label: barcode
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+barcode-reader:
+  label: barcode-reader
+  search:
+    terms: []
+  styles:
+  - regular
+baseball:
+  label: baseball
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+basket:
+  label: basket
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+basketball:
+  label: basketball
+  search:
+    terms:
+    - nba
+    - nba
+  styles:
+  - regular
+  - solid
+bath:
+  label: bath
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+battery:
+  label: battery
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+battery-charging:
+  label: battery-charging
+  search:
+    terms: []
+  styles:
+  - solid
+battery-full:
+  label: battery-full
+  search:
+    terms: []
+  styles:
+  - solid
+battery-low:
+  label: battery-low
+  search:
+    terms: []
+  styles:
+  - solid
+bed:
+  label: bed
+  search:
+    terms:
+    - sleep
+    - sleep
+  styles:
+  - regular
+  - solid
+been-here:
+  label: been-here
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+beer:
+  label: beer
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+behance:
+  label: behance
+  search:
+    terms: []
+  styles:
+  - logos
+bell:
+  label: bell
+  search:
+    terms:
+    - alert
+    - notification
+    - alert
+    - notification
+  styles:
+  - regular
+  - solid
+bell-minus:
+  label: bell-minus
+  search:
+    terms:
+    - alert
+    - notification
+    - alert
+    - notification
+  styles:
+  - solid
+  - regular
+bell-off:
+  label: bell-off
+  search:
+    terms:
+    - alert
+    - notification
+    - silent
+    - alert
+    - notification
+    - silent
+  styles:
+  - regular
+  - solid
+bell-plus:
+  label: bell-plus
+  search:
+    terms:
+    - alert
+    - notification
+    - alert
+    - notification
+  styles:
+  - solid
+  - regular
+bell-ring:
+  label: bell-ring
+  search:
+    terms:
+    - alert
+    - notification
+  styles:
+  - solid
+bible:
+  label: bible
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bing:
+  label: bing
+  search:
+    terms: []
+  styles:
+  - logos
+binoculars:
+  label: binoculars
+  search:
+    terms: []
+  styles:
+  - solid
+bitcoin:
+  label: bitcoin
+  search:
+    terms: []
+  styles:
+  - regular
+  - logos
+blanket:
+  label: blanket
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+blender:
+  label: blender
+  search:
+    terms: []
+  styles:
+  - logos
+block:
+  label: block
+  search:
+    terms: []
+  styles:
+  - regular
+blogger:
+  label: blogger
+  search:
+    terms: []
+  styles:
+  - logos
+bluetooth:
+  label: bluetooth
+  search:
+    terms: []
+  styles:
+  - regular
+body:
+  label: body
+  search:
+    terms:
+    - male
+  styles:
+  - regular
+bold:
+  label: bold
+  search:
+    terms: []
+  styles:
+  - regular
+bolt:
+  label: bolt
+  search:
+    terms:
+    - zap
+  styles:
+  - solid
+bolt-circle:
+  label: bolt-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bomb:
+  label: bomb
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bone:
+  label: bone
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bong:
+  label: bong
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+book:
+  label: book
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+book-add:
+  label: book-add
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+book-alt:
+  label: book-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+book-bookmark:
+  label: book-bookmark
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+book-content:
+  label: book-content
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+book-heart:
+  label: book-heart
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+book-open:
+  label: book-open
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+book-reader:
+  label: book-reader
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bookmark:
+  label: bookmark
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bookmark-alt:
+  label: bookmark-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bookmark-alt-minus:
+  label: bookmark-alt-minus
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bookmark-alt-plus:
+  label: bookmark-alt-plus
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bookmark-heart:
+  label: bookmark-heart
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bookmark-minus:
+  label: bookmark-minus
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+bookmark-plus:
+  label: bookmark-plus
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bookmark-star:
+  label: bookmark-star
+  search:
+    terms: []
+  styles:
+  - solid
+bookmarks:
+  label: bookmarks
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+bootstrap:
+  label: bootstrap
+  search:
+    terms: []
+  styles:
+  - logos
+border-all:
+  label: border-all
+  search:
+    terms: []
+  styles:
+  - regular
+border-bottom:
+  label: border-bottom
+  search:
+    terms: []
+  styles:
+  - regular
+border-inner:
+  label: border-inner
+  search:
+    terms: []
+  styles:
+  - regular
+border-left:
+  label: border-left
+  search:
+    terms: []
+  styles:
+  - regular
+border-none:
+  label: border-none
+  search:
+    terms: []
+  styles:
+  - regular
+border-outer:
+  label: border-outer
+  search:
+    terms: []
+  styles:
+  - regular
+border-radius:
+  label: border-radius
+  search:
+    terms: []
+  styles:
+  - regular
+border-right:
+  label: border-right
+  search:
+    terms: []
+  styles:
+  - regular
+border-top:
+  label: border-top
+  search:
+    terms: []
+  styles:
+  - regular
+bot:
+  label: bot
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bowl-hot:
+  label: bowl-hot
+  search:
+    terms:
+    - food
+    - heat
+    - food
+    - heat
+  styles:
+  - solid
+  - regular
+bowl-rice:
+  label: bowl-rice
+  search:
+    terms:
+    - food
+    - food
+  styles:
+  - solid
+  - regular
+bowling-ball:
+  label: bowling-ball
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+box:
+  label: box
+  search:
+    terms:
+    - archive
+    - archive
+  styles:
+  - regular
+  - solid
+bracket:
+  label: bracket
+  search:
+    terms: []
+  styles:
+  - regular
+braille:
+  label: braille
+  search:
+    terms: []
+  styles:
+  - regular
+brain:
+  label: brain
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+briefcase:
+  label: briefcase
+  search:
+    terms:
+    - work
+    - travel
+    - suitcase
+    - work
+    - travel
+    - suitcase
+  styles:
+  - regular
+  - solid
+briefcase-alt:
+  label: briefcase-alt
+  search:
+    terms:
+    - work
+    - travel
+    - suitcase
+    - work
+    - travel
+    - suitcase
+  styles:
+  - regular
+  - solid
+briefcase-alt-2:
+  label: briefcase-alt-2
+  search:
+    terms:
+    - work
+    - travel
+    - suitcase
+    - work
+    - travel
+    - suitcase
+  styles:
+  - regular
+  - solid
+brightness:
+  label: brightness
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+brightness-half:
+  label: brightness-half
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+broadcast:
+  label: broadcast
+  search:
+    terms: []
+  styles:
+  - regular
+brush:
+  label: brush
+  search:
+    terms:
+    - color
+    - colour
+    - painting
+    - color
+    - colour
+    - painting
+  styles:
+  - regular
+  - solid
+brush-alt:
+  label: brush-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bug:
+  label: bug
+  search:
+    terms:
+    - error
+    - warning
+    - error
+    - warning
+  styles:
+  - regular
+  - solid
+bug-alt:
+  label: bug-alt
+  search:
+    terms:
+    - error
+    - warning
+    - error
+    - warning
+  styles:
+  - regular
+  - solid
+building:
+  label: building
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+building-house:
+  label: building-house
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+buildings:
+  label: buildings
+  search:
+    terms:
+    - city
+    - colony
+    - skyline
+    - skyscrapers
+    - city
+    - colony
+    - skyline
+    - skyscrapers
+  styles:
+  - regular
+  - solid
+bulb:
+  label: bulb
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bullseye:
+  label: bullseye
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+buoy:
+  label: buoy
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bus:
+  label: bus
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+bus-school:
+  label: bus-school
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+business:
+  label: business
+  search:
+    terms:
+    - skyline
+    - skyscraper
+    - city
+  styles:
+  - solid
+c-plus-plus:
+  label: c-plus-plus
+  search:
+    terms:
+    - c++
+  styles:
+  - logos
+cabinet:
+  label: cabinet
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+cable-car:
+  label: cable-car
+  search:
+    terms:
+    - transportation
+    - hill
+    - travel
+    - transportation
+    - hill
+    - travel
+  styles:
+  - solid
+  - regular
+cake:
+  label: cake
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+calculator:
+  label: calculator
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+calendar:
+  label: calendar
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+calendar-alt:
+  label: calendar-alt
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+calendar-check:
+  label: calendar-check
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+calendar-edit:
+  label: calendar-edit
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+calendar-event:
+  label: calendar-event
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+calendar-exclamation:
+  label: calendar-exclamation
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+calendar-heart:
+  label: calendar-heart
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+calendar-minus:
+  label: calendar-minus
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+calendar-plus:
+  label: calendar-plus
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+calendar-star:
+  label: calendar-star
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+calendar-week:
+  label: calendar-week
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+calendar-x:
+  label: calendar-x
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+camera:
+  label: camera
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+camera-home:
+  label: camera-home
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+camera-movie:
+  label: camera-movie
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+camera-off:
+  label: camera-off
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+camera-plus:
+  label: camera-plus
+  search:
+    terms: []
+  styles:
+  - solid
+candles:
+  label: candles
+  search:
+    terms:
+    - trading
+    - stock
+  styles:
+  - regular
+capsule:
+  label: capsule
+  search:
+    terms:
+    - medicine
+    - medicine
+  styles:
+  - solid
+  - regular
+captions:
+  label: captions
+  search:
+    terms:
+    - subtitles
+    - subs
+    - cc
+    - subtitles
+    - subs
+    - cc
+  styles:
+  - regular
+  - solid
+car:
+  label: car
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+car-battery:
+  label: car-battery
+  search:
+    terms: []
+  styles:
+  - solid
+car-crash:
+  label: car-crash
+  search:
+    terms: []
+  styles:
+  - solid
+car-garage:
+  label: car-garage
+  search:
+    terms: []
+  styles:
+  - solid
+car-mechanic:
+  label: car-mechanic
+  search:
+    terms: []
+  styles:
+  - solid
+car-wash:
+  label: car-wash
+  search:
+    terms: []
+  styles:
+  - solid
+card:
+  label: card
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+caret-down:
+  label: caret-down
+  search:
+    terms: []
+  styles:
+  - regular
+caret-down-circle:
+  label: caret-down-circle
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+caret-down-square:
+  label: caret-down-square
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+caret-left:
+  label: caret-left
+  search:
+    terms: []
+  styles:
+  - regular
+caret-left-circle:
+  label: caret-left-circle
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+caret-left-square:
+  label: caret-left-square
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+caret-right:
+  label: caret-right
+  search:
+    terms: []
+  styles:
+  - regular
+caret-right-circle:
+  label: caret-right-circle
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+caret-right-square:
+  label: caret-right-square
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+caret-up:
+  label: caret-up
+  search:
+    terms: []
+  styles:
+  - regular
+caret-up-circle:
+  label: caret-up-circle
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+caret-up-square:
+  label: caret-up-square
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+carousel:
+  label: carousel
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+cart:
+  label: cart
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+cart-add:
+  label: cart-add
+  search:
+    terms:
+    - buy
+  styles:
+  - regular
+  - solid
+cart-alt:
+  label: cart-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+cart-download:
+  label: cart-download
+  search:
+    terms:
+    - buy
+  styles:
+  - regular
+  - solid
+cast:
+  label: cast
+  search:
+    terms: []
+  styles:
+  - regular
+castle:
+  label: castle
+  search:
+    terms:
+    - fort
+    - secure
+  styles:
+  - solid
+cat:
+  label: cat
+  search:
+    terms:
+    - pet
+  styles:
+  - solid
+category:
+  label: category
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+category-alt:
+  label: category-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+cctv:
+  label: cctv
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+certification:
+  label: certification
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+chair:
+  label: chair
+  search:
+    terms: []
+  styles:
+  - regular
+chalkboard:
+  label: chalkboard
+  search:
+    terms:
+    - whiteboard
+    - teaching
+    - whiteboard
+    - teaching
+  styles:
+  - solid
+  - regular
+chart:
+  label: chart
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+chat:
+  label: chat
+  search:
+    terms:
+    - discussion
+    - talk
+    - comments
+    - messages
+    - discussion
+    - talk
+    - comments
+    - messages
+  styles:
+  - regular
+  - solid
+check:
+  label: check
+  search:
+    terms: []
+  styles:
+  - regular
+check-circle:
+  label: check-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+check-double:
+  label: check-double
+  search:
+    terms: []
+  styles:
+  - regular
+check-shield:
+  label: check-shield
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+check-square:
+  label: check-square
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+checkbox:
+  label: checkbox
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+checkbox-checked:
+  label: checkbox-checked
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+checkbox-minus:
+  label: checkbox-minus
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+checkbox-square:
+  label: checkbox-square
+  search:
+    terms: []
+  styles:
+  - regular
+cheese:
+  label: cheese
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+chess:
+  label: chess
+  search:
+    terms:
+    - strategy
+  styles:
+  - solid
+chevron-down:
+  label: chevron-down
+  search:
+    terms:
+    - arrow
+    - arrow
+  styles:
+  - regular
+  - solid
+chevron-down-circle:
+  label: chevron-down-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+chevron-down-square:
+  label: chevron-down-square
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+chevron-left:
+  label: chevron-left
+  search:
+    terms:
+    - arrow
+    - arrow
+  styles:
+  - regular
+  - solid
+chevron-left-circle:
+  label: chevron-left-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+chevron-left-square:
+  label: chevron-left-square
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+chevron-right:
+  label: chevron-right
+  search:
+    terms:
+    - arrow
+    - arrow
+  styles:
+  - regular
+  - solid
+chevron-right-circle:
+  label: chevron-right-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+chevron-right-square:
+  label: chevron-right-square
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+chevron-up:
+  label: chevron-up
+  search:
+    terms:
+    - arrow
+    - arrow
+  styles:
+  - regular
+  - solid
+chevron-up-circle:
+  label: chevron-up-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+chevron-up-square:
+  label: chevron-up-square
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+chevrons-down:
+  label: chevrons-down
+  search:
+    terms:
+    - arrow
+    - arrow
+  styles:
+  - regular
+  - solid
+chevrons-left:
+  label: chevrons-left
+  search:
+    terms:
+    - arrow
+    - arrow
+  styles:
+  - regular
+  - solid
+chevrons-right:
+  label: chevrons-right
+  search:
+    terms:
+    - arrow
+    - arrow
+  styles:
+  - regular
+  - solid
+chevrons-up:
+  label: chevrons-up
+  search:
+    terms:
+    - arrow
+    - arrow
+  styles:
+  - regular
+  - solid
+child:
+  label: child
+  search:
+    terms: []
+  styles:
+  - regular
+chip:
+  label: chip
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+chrome:
+  label: chrome
+  search:
+    terms: []
+  styles:
+  - logos
+church:
+  label: church
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+circle:
+  label: circle
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+circle-half:
+  label: circle-half
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+circle-quarter:
+  label: circle-quarter
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+circle-three-quarter:
+  label: circle-three-quarter
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+city:
+  label: city
+  search:
+    terms: []
+  styles:
+  - solid
+clinic:
+  label: clinic
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+clipboard:
+  label: clipboard
+  search:
+    terms: []
+  styles:
+  - regular
+closet:
+  label: closet
+  search:
+    terms: []
+  styles:
+  - regular
+cloud:
+  label: cloud
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+cloud-download:
+  label: cloud-download
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+cloud-drizzle:
+  label: cloud-drizzle
+  search:
+    terms: []
+  styles:
+  - regular
+cloud-light-rain:
+  label: cloud-light-rain
+  search:
+    terms: []
+  styles:
+  - regular
+cloud-lightning:
+  label: cloud-lightning
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+cloud-rain:
+  label: cloud-rain
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+cloud-snow:
+  label: cloud-snow
+  search:
+    terms: []
+  styles:
+  - regular
+cloud-upload:
+  label: cloud-upload
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+code:
+  label: code
+  search:
+    terms: []
+  styles:
+  - regular
+code-alt:
+  label: code-alt
+  search:
+    terms: []
+  styles:
+  - regular
+code-block:
+  label: code-block
+  search:
+    terms: []
+  styles:
+  - regular
+code-curly:
+  label: code-curly
+  search:
+    terms: []
+  styles:
+  - regular
+codepen:
+  label: codepen
+  search:
+    terms: []
+  styles:
+  - logos
+coffee:
+  label: coffee
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+coffee-alt:
+  label: coffee-alt
+  search:
+    terms: []
+  styles:
+  - solid
+coffee-bean:
+  label: coffee-bean
+  search:
+    terms: []
+  styles:
+  - solid
+coffee-togo:
+  label: coffee-togo
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+cog:
+  label: cog
+  search:
+    terms:
+    - gear
+    - setting
+    - gear
+    - setting
+  styles:
+  - regular
+  - solid
+coin:
+  label: coin
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+coin-stack:
+  label: coin-stack
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+collapse:
+  label: collapse
+  search:
+    terms: []
+  styles:
+  - regular
+collapse-alt:
+  label: collapse-alt
+  search:
+    terms: []
+  styles:
+  - regular
+collapse-horizontal:
+  label: collapse-horizontal
+  search:
+    terms: []
+  styles:
+  - regular
+collapse-vertical:
+  label: collapse-vertical
+  search:
+    terms: []
+  styles:
+  - regular
+collection:
+  label: collection
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+color:
+  label: color
+  search:
+    terms:
+    - palette
+    - wheel
+    - palette
+    - wheel
+  styles:
+  - solid
+  - regular
+color-fill:
+  label: color-fill
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+columns:
+  label: columns
+  search:
+    terms: []
+  styles:
+  - regular
+command:
+  label: command
+  search:
+    terms: []
+  styles:
+  - regular
+comment:
+  label: comment
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+comment-add:
+  label: comment-add
+  search:
+    terms:
+    - chat
+    - message
+    - new
+    - plus
+    - chat
+    - message
+    - new
+    - plus
+  styles:
+  - solid
+  - regular
+comment-check:
+  label: comment-check
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+comment-detail:
+  label: comment-detail
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+comment-dots:
+  label: comment-dots
+  search:
+    terms:
+    - loading
+    - message
+    - chat
+    - loading
+    - message
+    - chat
+  styles:
+  - regular
+  - solid
+comment-edit:
+  label: comment-edit
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+comment-error:
+  label: comment-error
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+comment-minus:
+  label: comment-minus
+  search:
+    terms:
+    - chat
+    - message
+    - remove
+    - delete
+    - chat
+    - message
+    - remove
+    - delete
+  styles:
+  - regular
+  - solid
+comment-x:
+  label: comment-x
+  search:
+    terms:
+    - chat
+    - message
+    - remove
+    - delete
+    - chat
+    - message
+    - remove
+    - delete
+  styles:
+  - regular
+  - solid
+compass:
+  label: compass
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+component:
+  label: component
+  search:
+    terms: []
+  styles:
+  - solid
+confused:
+  label: confused
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+contact:
+  label: contact
+  search:
+    terms: []
+  styles:
+  - solid
+conversation:
+  label: conversation
+  search:
+    terms:
+    - chat
+    - discussion
+    - chat
+    - discussion
+  styles:
+  - regular
+  - solid
+cookie:
+  label: cookie
+  search:
+    terms:
+    - biscuit
+    - biscuit
+  styles:
+  - regular
+  - solid
+cool:
+  label: cool
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+copy:
+  label: copy
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+copy-alt:
+  label: copy-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+copyright:
+  label: copyright
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+coupon:
+  label: coupon
+  search:
+    terms: []
+  styles:
+  - solid
+creative-commons:
+  label: creative-commons
+  search:
+    terms: []
+  styles:
+  - logos
+credit-card:
+  label: credit-card
+  search:
+    terms:
+    - finance
+    - money
+    - debit
+    - finance
+    - money
+    - debit
+  styles:
+  - solid
+  - regular
+credit-card-alt:
+  label: credit-card-alt
+  search:
+    terms:
+    - finance
+    - money
+    - debit
+    - finance
+    - money
+    - debit
+  styles:
+  - regular
+  - solid
+credit-card-front:
+  label: credit-card-front
+  search:
+    terms:
+    - finance
+    - money
+    - debit
+    - finance
+    - money
+    - debit
+  styles:
+  - regular
+  - solid
+cricket-ball:
+  label: cricket-ball
+  search:
+    terms:
+    - sport
+    - sport
+  styles:
+  - solid
+  - regular
+crop:
+  label: crop
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+cross:
+  label: cross
+  search:
+    terms:
+    - gaming
+    - crosshair
+    - aim
+  styles:
+  - regular
+crosshair:
+  label: crosshair
+  search:
+    terms: []
+  styles:
+  - regular
+crown:
+  label: crown
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+css3:
+  label: css3
+  search:
+    terms: []
+  styles:
+  - logos
+cube:
+  label: cube
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+cube-alt:
+  label: cube-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+cuboid:
+  label: cuboid
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+current-location:
+  label: current-location
+  search:
+    terms: []
+  styles:
+  - regular
+customize:
+  label: customize
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+cut:
+  label: cut
+  search:
+    terms: []
+  styles:
+  - regular
+cycling:
+  label: cycling
+  search:
+    terms: []
+  styles:
+  - regular
+cylinder:
+  label: cylinder
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+dailymotion:
+  label: dailymotion
+  search:
+    terms: []
+  styles:
+  - logos
+dashboard:
+  label: dashboard
+  search:
+    terms: []
+  styles:
+  - solid
+data:
+  label: data
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+deezer:
+  label: deezer
+  search:
+    terms:
+    - music
+  styles:
+  - logos
+desktop:
+  label: desktop
+  search:
+    terms:
+    - monitor
+    - display
+  styles:
+  - regular
+detail:
+  label: detail
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+dev-to:
+  label: dev-to
+  search:
+    terms: []
+  styles:
+  - logos
+deviantart:
+  label: deviantart
+  search:
+    terms: []
+  styles:
+  - logos
+devices:
+  label: devices
+  search:
+    terms:
+    - mobile
+    - tab
+    - mobile
+    - tab
+  styles:
+  - solid
+  - regular
+dialpad:
+  label: dialpad
+  search:
+    terms:
+    - keypad
+  styles:
+  - regular
+dialpad-alt:
+  label: dialpad-alt
+  search:
+    terms:
+    - keypad
+  styles:
+  - regular
+diamond:
+  label: diamond
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+dice-1:
+  label: dice-1
+  search:
+    terms:
+    - game
+    - random
+    - game
+    - random
+  styles:
+  - regular
+  - solid
+dice-2:
+  label: dice-2
+  search:
+    terms:
+    - game
+    - random
+    - game
+    - random
+  styles:
+  - regular
+  - solid
+dice-3:
+  label: dice-3
+  search:
+    terms:
+    - game
+    - random
+    - game
+    - random
+  styles:
+  - regular
+  - solid
+dice-4:
+  label: dice-4
+  search:
+    terms:
+    - game
+    - random
+    - game
+    - random
+  styles:
+  - regular
+  - solid
+dice-5:
+  label: dice-5
+  search:
+    terms:
+    - game
+    - random
+    - game
+    - random
+  styles:
+  - regular
+  - solid
+dice-6:
+  label: dice-6
+  search:
+    terms:
+    - game
+    - random
+    - game
+    - random
+  styles:
+  - regular
+  - solid
+digg:
+  label: digg
+  search:
+    terms: []
+  styles:
+  - logos
+digitalocean:
+  label: digitalocean
+  search:
+    terms: []
+  styles:
+  - logos
+direction-left:
+  label: direction-left
+  search:
+    terms: []
+  styles:
+  - solid
+direction-right:
+  label: direction-right
+  search:
+    terms: []
+  styles:
+  - solid
+directions:
+  label: directions
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+disc:
+  label: disc
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+discord:
+  label: discord
+  search:
+    terms: []
+  styles:
+  - logos
+discord-alt:
+  label: discord-alt
+  search:
+    terms: []
+  styles:
+  - logos
+discount:
+  label: discount
+  search:
+    terms: []
+  styles:
+  - solid
+discourse:
+  label: discourse
+  search:
+    terms: []
+  styles:
+  - logos
+dish:
+  label: dish
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+dislike:
+  label: dislike
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+dizzy:
+  label: dizzy
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+django:
+  label: django
+  search:
+    terms: []
+  styles:
+  - logos
+dna:
+  label: dna
+  search:
+    terms: []
+  styles:
+  - regular
+dock-bottom:
+  label: dock-bottom
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+dock-left:
+  label: dock-left
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+dock-right:
+  label: dock-right
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+dock-top:
+  label: dock-top
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+docker:
+  label: docker
+  search:
+    terms: []
+  styles:
+  - logos
+dog:
+  label: dog
+  search:
+    terms:
+    - pet
+    - canine
+  styles:
+  - solid
+dollar:
+  label: dollar
+  search:
+    terms: []
+  styles:
+  - regular
+dollar-circle:
+  label: dollar-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+donate-blood:
+  label: donate-blood
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+donate-heart:
+  label: donate-heart
+  search:
+    terms:
+    - donation
+    - contribution
+    - donation
+    - contribution
+  styles:
+  - regular
+  - solid
+door-open:
+  label: door-open
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+dots-horizontal:
+  label: dots-horizontal
+  search:
+    terms: []
+  styles:
+  - regular
+dots-horizontal-rounded:
+  label: dots-horizontal-rounded
+  search:
+    terms: []
+  styles:
+  - regular
+dots-vertical:
+  label: dots-vertical
+  search:
+    terms: []
+  styles:
+  - regular
+dots-vertical-rounded:
+  label: dots-vertical-rounded
+  search:
+    terms: []
+  styles:
+  - regular
+doughnut-chart:
+  label: doughnut-chart
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+down-arrow:
+  label: down-arrow
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+down-arrow-alt:
+  label: down-arrow-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+down-arrow-circle:
+  label: down-arrow-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+down-arrow-square:
+  label: down-arrow-square
+  search:
+    terms: []
+  styles:
+  - solid
+download:
+  label: download
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+downvote:
+  label: downvote
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+dribbble:
+  label: dribbble
+  search:
+    terms: []
+  styles:
+  - logos
+drink:
+  label: drink
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+dropbox:
+  label: dropbox
+  search:
+    terms: []
+  styles:
+  - logos
+droplet:
+  label: droplet
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+droplet-half:
+  label: droplet-half
+  search:
+    terms: []
+  styles:
+  - solid
+drupal:
+  label: drupal
+  search:
+    terms: []
+  styles:
+  - logos
+dryer:
+  label: dryer
+  search:
+    terms: []
+  styles:
+  - solid
+dumbbell:
+  label: dumbbell
+  search:
+    terms:
+    - gym
+    - workout
+  styles:
+  - regular
+duplicate:
+  label: duplicate
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+ebay:
+  label: ebay
+  search:
+    terms: []
+  styles:
+  - logos
+edge:
+  label: edge
+  search:
+    terms: []
+  styles:
+  - logos
+edit:
+  label: edit
+  search:
+    terms:
+    - writing
+    - note
+    - pencil
+    - writing
+    - note
+    - pencil
+  styles:
+  - regular
+  - solid
+edit-alt:
+  label: edit-alt
+  search:
+    terms:
+    - writing
+    - note
+    - pencil
+    - writing
+    - note
+    - pencil
+  styles:
+  - regular
+  - solid
+edit-location:
+  label: edit-location
+  search:
+    terms: []
+  styles:
+  - solid
+eject:
+  label: eject
+  search:
+    terms: []
+  styles:
+  - solid
+envelope:
+  label: envelope
+  search:
+    terms:
+    - letter
+    - mail
+    - email
+    - communication
+    - letter
+    - mail
+    - email
+    - communication
+  styles:
+  - regular
+  - solid
+envelope-open:
+  label: envelope-open
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+equalizer:
+  label: equalizer
+  search:
+    terms: []
+  styles:
+  - regular
+eraser:
+  label: eraser
+  search:
+    terms:
+    - rubber
+    - rubber
+  styles:
+  - solid
+  - regular
+error:
+  label: error
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+error-alt:
+  label: error-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+error-circle:
+  label: error-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+etsy:
+  label: etsy
+  search:
+    terms: []
+  styles:
+  - logos
+euro:
+  label: euro
+  search:
+    terms: []
+  styles:
+  - regular
+ev-station:
+  label: ev-station
+  search:
+    terms: []
+  styles:
+  - solid
+exclude:
+  label: exclude
+  search:
+    terms: []
+  styles:
+  - regular
+exit:
+  label: exit
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+exit-fullscreen:
+  label: exit-fullscreen
+  search:
+    terms: []
+  styles:
+  - regular
+expand:
+  label: expand
+  search:
+    terms: []
+  styles:
+  - regular
+expand-alt:
+  label: expand-alt
+  search:
+    terms: []
+  styles:
+  - regular
+expand-horizontal:
+  label: expand-horizontal
+  search:
+    terms: []
+  styles:
+  - regular
+expand-vertical:
+  label: expand-vertical
+  search:
+    terms: []
+  styles:
+  - regular
+export:
+  label: export
+  search:
+    terms: []
+  styles:
+  - regular
+extension:
+  label: extension
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+eyedropper:
+  label: eyedropper
+  search:
+    terms: []
+  styles:
+  - solid
+face:
+  label: face
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+face-mask:
+  label: face-mask
+  search:
+    terms: []
+  styles:
+  - solid
+facebook:
+  label: facebook
+  search:
+    terms:
+    - social media
+  styles:
+  - logos
+facebook-circle:
+  label: facebook-circle
+  search:
+    terms:
+    - social media
+  styles:
+  - logos
+facebook-square:
+  label: facebook-square
+  search:
+    terms: []
+  styles:
+  - logos
+factory:
+  label: factory
+  search:
+    terms: []
+  styles:
+  - solid
+fast-forward:
+  label: fast-forward
+  search:
+    terms: []
+  styles:
+  - regular
+fast-forward-circle:
+  label: fast-forward-circle
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+female:
+  label: female
+  search:
+    terms: []
+  styles:
+  - regular
+female-sign:
+  label: female-sign
+  search:
+    terms: []
+  styles:
+  - regular
+figma:
+  label: figma
+  search:
+    terms: []
+  styles:
+  - logos
+file:
+  label: file
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+file-archive:
+  label: file-archive
+  search:
+    terms: []
+  styles:
+  - solid
+file-blank:
+  label: file-blank
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+file-css:
+  label: file-css
+  search:
+    terms: []
+  styles:
+  - solid
+file-doc:
+  label: file-doc
+  search:
+    terms: []
+  styles:
+  - solid
+file-export:
+  label: file-export
+  search:
+    terms: []
+  styles:
+  - solid
+file-find:
+  label: file-find
+  search:
+    terms:
+    - search
+    - search
+  styles:
+  - solid
+  - regular
+file-gif:
+  label: file-gif
+  search:
+    terms: []
+  styles:
+  - solid
+file-html:
+  label: file-html
+  search:
+    terms: []
+  styles:
+  - solid
+file-image:
+  label: file-image
+  search:
+    terms: []
+  styles:
+  - solid
+file-import:
+  label: file-import
+  search:
+    terms: []
+  styles:
+  - solid
+file-jpg:
+  label: file-jpg
+  search:
+    terms: []
+  styles:
+  - solid
+file-js:
+  label: file-js
+  search:
+    terms: []
+  styles:
+  - solid
+file-json:
+  label: file-json
+  search:
+    terms: []
+  styles:
+  - solid
+file-md:
+  label: file-md
+  search:
+    terms: []
+  styles:
+  - solid
+file-pdf:
+  label: file-pdf
+  search:
+    terms: []
+  styles:
+  - solid
+file-plus:
+  label: file-plus
+  search:
+    terms:
+    - add
+    - file add
+    - new file
+  styles:
+  - solid
+file-png:
+  label: file-png
+  search:
+    terms: []
+  styles:
+  - solid
+file-txt:
+  label: file-txt
+  search:
+    terms: []
+  styles:
+  - solid
+film:
+  label: film
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+filter:
+  label: filter
+  search:
+    terms: []
+  styles:
+  - regular
+filter-alt:
+  label: filter-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+fingerprint:
+  label: fingerprint
+  search:
+    terms: []
+  styles:
+  - regular
+firebase:
+  label: firebase
+  search:
+    terms: []
+  styles:
+  - logos
+firefox:
+  label: firefox
+  search:
+    terms: []
+  styles:
+  - logos
+first-aid:
+  label: first-aid
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+first-page:
+  label: first-page
+  search:
+    terms: []
+  styles:
+  - regular
+flag:
+  label: flag
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+flag-alt:
+  label: flag-alt
+  search:
+    terms: []
+  styles:
+  - solid
+flag-checkered:
+  label: flag-checkered
+  search:
+    terms:
+    - f1
+    - racing
+  styles:
+  - solid
+flame:
+  label: flame
+  search:
+    terms: []
+  styles:
+  - solid
+flask:
+  label: flask
+  search:
+    terms: []
+  styles:
+  - logos
+  - solid
+flickr:
+  label: flickr
+  search:
+    terms: []
+  styles:
+  - logos
+flickr-square:
+  label: flickr-square
+  search:
+    terms: []
+  styles:
+  - logos
+florist:
+  label: florist
+  search:
+    terms: []
+  styles:
+  - solid
+flutter:
+  label: flutter
+  search:
+    terms: []
+  styles:
+  - logos
+folder:
+  label: folder
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+folder-minus:
+  label: folder-minus
+  search:
+    terms:
+    - remove
+    - delete
+    - remove
+    - delete
+  styles:
+  - solid
+  - regular
+folder-open:
+  label: folder-open
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+folder-plus:
+  label: folder-plus
+  search:
+    terms:
+    - add
+    - folder add
+    - new folder
+    - add
+    - folder add
+    - new folder
+  styles:
+  - regular
+  - solid
+font:
+  label: font
+  search:
+    terms: []
+  styles:
+  - regular
+font-color:
+  label: font-color
+  search:
+    terms: []
+  styles:
+  - regular
+font-family:
+  label: font-family
+  search:
+    terms: []
+  styles:
+  - regular
+font-size:
+  label: font-size
+  search:
+    terms: []
+  styles:
+  - regular
+food-menu:
+  label: food-menu
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+food-tag:
+  label: food-tag
+  search:
+    terms: []
+  styles:
+  - regular
+football:
+  label: football
+  search:
+    terms:
+    - soccer
+    - goal
+  styles:
+  - regular
+fork:
+  label: fork
+  search:
+    terms:
+    - utensil
+    - restaurant
+  styles:
+  - regular
+foursquare:
+  label: foursquare
+  search:
+    terms: []
+  styles:
+  - logos
+fridge:
+  label: fridge
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+fullscreen:
+  label: fullscreen
+  search:
+    terms: []
+  styles:
+  - regular
+game:
+  label: game
+  search:
+    terms:
+    - pacman
+    - pacman
+  styles:
+  - regular
+  - solid
+gas-pump:
+  label: gas-pump
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+ghost:
+  label: ghost
+  search:
+    terms:
+    - spooky
+    - horror
+    - scary
+    - spooky
+    - horror
+    - scary
+  styles:
+  - regular
+  - solid
+gift:
+  label: gift
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+git:
+  label: git
+  search:
+    terms: []
+  styles:
+  - logos
+git-branch:
+  label: git-branch
+  search:
+    terms: []
+  styles:
+  - regular
+git-commit:
+  label: git-commit
+  search:
+    terms: []
+  styles:
+  - regular
+git-compare:
+  label: git-compare
+  search:
+    terms: []
+  styles:
+  - regular
+git-merge:
+  label: git-merge
+  search:
+    terms: []
+  styles:
+  - regular
+git-pull-request:
+  label: git-pull-request
+  search:
+    terms: []
+  styles:
+  - regular
+git-repo-forked:
+  label: git-repo-forked
+  search:
+    terms: []
+  styles:
+  - regular
+github:
+  label: github
+  search:
+    terms: []
+  styles:
+  - logos
+gitlab:
+  label: gitlab
+  search:
+    terms: []
+  styles:
+  - logos
+glasses:
+  label: glasses
+  search:
+    terms: []
+  styles:
+  - regular
+glasses-alt:
+  label: glasses-alt
+  search:
+    terms: []
+  styles:
+  - regular
+globe:
+  label: globe
+  search:
+    terms: []
+  styles:
+  - regular
+globe-alt:
+  label: globe-alt
+  search:
+    terms: []
+  styles:
+  - regular
+gmail:
+  label: gmail
+  search:
+    terms: []
+  styles:
+  - logos
+go-lang:
+  label: go-lang
+  search:
+    terms: []
+  styles:
+  - logos
+google:
+  label: google
+  search:
+    terms: []
+  styles:
+  - logos
+google-cloud:
+  label: google-cloud
+  search:
+    terms: []
+  styles:
+  - logos
+google-plus:
+  label: google-plus
+  search:
+    terms: []
+  styles:
+  - logos
+google-plus-circle:
+  label: google-plus-circle
+  search:
+    terms: []
+  styles:
+  - logos
+graduation:
+  label: graduation
+  search:
+    terms:
+    - scholar
+    - college
+  styles:
+  - solid
+graphql:
+  label: graphql
+  search:
+    terms: []
+  styles:
+  - logos
+grid:
+  label: grid
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+grid-alt:
+  label: grid-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+grid-horizontal:
+  label: grid-horizontal
+  search:
+    terms: []
+  styles:
+  - regular
+grid-small:
+  label: grid-small
+  search:
+    terms: []
+  styles:
+  - regular
+grid-vertical:
+  label: grid-vertical
+  search:
+    terms: []
+  styles:
+  - regular
+group:
+  label: group
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+guitar-amp:
+  label: guitar-amp
+  search:
+    terms: []
+  styles:
+  - solid
+hand:
+  label: hand
+  search:
+    terms:
+    - palm
+    - stop
+  styles:
+  - solid
+hand-down:
+  label: hand-down
+  search:
+    terms:
+    - finger
+    - point
+    - direction
+  styles:
+  - solid
+hand-left:
+  label: hand-left
+  search:
+    terms:
+    - finger
+    - point
+    - direction
+  styles:
+  - solid
+hand-right:
+  label: hand-right
+  search:
+    terms:
+    - finger
+    - point
+    - direction
+  styles:
+  - solid
+hand-up:
+  label: hand-up
+  search:
+    terms:
+    - finger
+    - point
+    - direction
+  styles:
+  - solid
+handicap:
+  label: handicap
+  search:
+    terms:
+    - wheelchair
+    - injury
+  styles:
+  - regular
+happy:
+  label: happy
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+happy-alt:
+  label: happy-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+happy-beaming:
+  label: happy-beaming
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+happy-heart-eyes:
+  label: happy-heart-eyes
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+hard-hat:
+  label: hard-hat
+  search:
+    terms:
+    - construction
+    - worker
+    - labour
+    - construction
+    - worker
+    - labour
+  styles:
+  - solid
+  - regular
+hash:
+  label: hash
+  search:
+    terms: []
+  styles:
+  - regular
+hdd:
+  label: hdd
+  search:
+    terms:
+    - storage
+    - hard drive
+    - storage
+    - hard drive
+  styles:
+  - regular
+  - solid
+heading:
+  label: heading
+  search:
+    terms: []
+  styles:
+  - regular
+headphone:
+  label: headphone
+  search:
+    terms: []
+  styles:
+  - regular
+health:
+  label: health
+  search:
+    terms: []
+  styles:
+  - regular
+heart:
+  label: heart
+  search:
+    terms:
+    - health
+    - health
+  styles:
+  - regular
+  - solid
+heart-circle:
+  label: heart-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+heart-square:
+  label: heart-square
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+help-circle:
+  label: help-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+heroku:
+  label: heroku
+  search:
+    terms: []
+  styles:
+  - logos
+hide:
+  label: hide
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+highlight:
+  label: highlight
+  search:
+    terms: []
+  styles:
+  - regular
+history:
+  label: history
+  search:
+    terms: []
+  styles:
+  - regular
+hive:
+  label: hive
+  search:
+    terms: []
+  styles:
+  - regular
+home:
+  label: home
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+home-alt:
+  label: home-alt
+  search:
+    terms: []
+  styles:
+  - regular
+home-alt-2:
+  label: home-alt-2
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+home-circle:
+  label: home-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+home-heart:
+  label: home-heart
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+home-smile:
+  label: home-smile
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+horizontal-center:
+  label: horizontal-center
+  search:
+    terms: []
+  styles:
+  - regular
+horizontal-left:
+  label: horizontal-left
+  search:
+    terms: []
+  styles:
+  - regular
+horizontal-right:
+  label: horizontal-right
+  search:
+    terms: []
+  styles:
+  - regular
+hot:
+  label: hot
+  search:
+    terms:
+    - fire
+  styles:
+  - solid
+hotel:
+  label: hotel
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+hourglass:
+  label: hourglass
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+hourglass-bottom:
+  label: hourglass-bottom
+  search:
+    terms: []
+  styles:
+  - solid
+hourglass-top:
+  label: hourglass-top
+  search:
+    terms: []
+  styles:
+  - solid
+html5:
+  label: html5
+  search:
+    terms: []
+  styles:
+  - logos
+id-card:
+  label: id-card
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+image:
+  label: image
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+image-add:
+  label: image-add
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+image-alt:
+  label: image-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+images:
+  label: images
+  search:
+    terms: []
+  styles:
+  - regular
+imdb:
+  label: imdb
+  search:
+    terms: []
+  styles:
+  - logos
+import:
+  label: import
+  search:
+    terms: []
+  styles:
+  - regular
+inbox:
+  label: inbox
+  search:
+    terms: []
+  styles:
+  - solid
+infinite:
+  label: infinite
+  search:
+    terms: []
+  styles:
+  - regular
+info-circle:
+  label: info-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+info-square:
+  label: info-square
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+injection:
+  label: injection
+  search:
+    terms:
+    - syringe
+    - dose
+    - syringe
+    - dose
+  styles:
+  - regular
+  - solid
+instagram:
+  label: instagram
+  search:
+    terms:
+    - social media
+  styles:
+  - logos
+instagram-alt:
+  label: instagram-alt
+  search:
+    terms:
+    - social media
+  styles:
+  - logos
+institution:
+  label: institution
+  search:
+    terms: []
+  styles:
+  - solid
+internet-explorer:
+  label: internet-explorer
+  search:
+    terms: []
+  styles:
+  - logos
+intersect:
+  label: intersect
+  search:
+    terms: []
+  styles:
+  - regular
+invader:
+  label: invader
+  search:
+    terms: []
+  styles:
+  - solid
+invision:
+  label: invision
+  search:
+    terms: []
+  styles:
+  - logos
+italic:
+  label: italic
+  search:
+    terms: []
+  styles:
+  - regular
+java:
+  label: java
+  search:
+    terms: []
+  styles:
+  - logos
+javascript:
+  label: javascript
+  search:
+    terms: []
+  styles:
+  - logos
+joomla:
+  label: joomla
+  search:
+    terms: []
+  styles:
+  - logos
+joystick:
+  label: joystick
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+joystick-alt:
+  label: joystick-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+joystick-button:
+  label: joystick-button
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+jquery:
+  label: jquery
+  search:
+    terms: []
+  styles:
+  - logos
+jsfiddle:
+  label: jsfiddle
+  search:
+    terms: []
+  styles:
+  - logos
+key:
+  label: key
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+keyboard:
+  label: keyboard
+  search:
+    terms: []
+  styles:
+  - solid
+kickstarter:
+  label: kickstarter
+  search:
+    terms: []
+  styles:
+  - logos
+knife:
+  label: knife
+  search:
+    terms:
+    - utensil
+    - restaurant
+  styles:
+  - regular
+kubernetes:
+  label: kubernetes
+  search:
+    terms: []
+  styles:
+  - logos
+label:
+  label: label
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+landmark:
+  label: landmark
+  search:
+    terms: []
+  styles:
+  - solid
+landscape:
+  label: landscape
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+laptop:
+  label: laptop
+  search:
+    terms: []
+  styles:
+  - regular
+last-page:
+  label: last-page
+  search:
+    terms: []
+  styles:
+  - regular
+laugh:
+  label: laugh
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+layer:
+  label: layer
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+layer-minus:
+  label: layer-minus
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+layer-plus:
+  label: layer-plus
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+layout:
+  label: layout
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+leaf:
+  label: leaf
+  search:
+    terms:
+    - plant
+    - crop
+    - nature
+    - plant
+    - crop
+    - nature
+  styles:
+  - regular
+  - solid
+left-arrow:
+  label: left-arrow
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+left-arrow-alt:
+  label: left-arrow-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+left-arrow-circle:
+  label: left-arrow-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+left-arrow-square:
+  label: left-arrow-square
+  search:
+    terms: []
+  styles:
+  - solid
+left-down-arrow-circle:
+  label: left-down-arrow-circle
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+left-indent:
+  label: left-indent
+  search:
+    terms: []
+  styles:
+  - regular
+left-top-arrow-circle:
+  label: left-top-arrow-circle
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+lemon:
+  label: lemon
+  search:
+    terms:
+    - lime
+    - fruit
+    - vegetable
+    - lime
+    - fruit
+    - vegetable
+  styles:
+  - solid
+  - regular
+less:
+  label: less
+  search:
+    terms: []
+  styles:
+  - logos
+library:
+  label: library
+  search:
+    terms: []
+  styles:
+  - regular
+like:
+  label: like
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+line-chart:
+  label: line-chart
+  search:
+    terms: []
+  styles:
+  - regular
+line-chart-down:
+  label: line-chart-down
+  search:
+    terms: []
+  styles:
+  - regular
+link:
+  label: link
+  search:
+    terms: []
+  styles:
+  - regular
+link-alt:
+  label: link-alt
+  search:
+    terms: []
+  styles:
+  - regular
+link-external:
+  label: link-external
+  search:
+    terms: []
+  styles:
+  - regular
+linkedin:
+  label: linkedin
+  search:
+    terms: []
+  styles:
+  - logos
+linkedin-square:
+  label: linkedin-square
+  search:
+    terms: []
+  styles:
+  - logos
+lira:
+  label: lira
+  search:
+    terms: []
+  styles:
+  - regular
+list-check:
+  label: list-check
+  search:
+    terms: []
+  styles:
+  - regular
+list-minus:
+  label: list-minus
+  search:
+    terms: []
+  styles:
+  - regular
+list-ol:
+  label: list-ol
+  search:
+    terms: []
+  styles:
+  - regular
+list-plus:
+  label: list-plus
+  search:
+    terms: []
+  styles:
+  - regular
+list-ul:
+  label: list-ul
+  search:
+    terms: []
+  styles:
+  - regular
+loader:
+  label: loader
+  search:
+    terms: []
+  styles:
+  - regular
+loader-alt:
+  label: loader-alt
+  search:
+    terms: []
+  styles:
+  - regular
+loader-circle:
+  label: loader-circle
+  search:
+    terms: []
+  styles:
+  - regular
+location-plus:
+  label: location-plus
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+lock:
+  label: lock
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+lock-alt:
+  label: lock-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+lock-open:
+  label: lock-open
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+lock-open-alt:
+  label: lock-open-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+log-in:
+  label: log-in
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+log-in-circle:
+  label: log-in-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+log-out:
+  label: log-out
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+log-out-circle:
+  label: log-out-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+low-vision:
+  label: low-vision
+  search:
+    terms:
+    - eye
+    - view
+    - visibility
+    - eye
+    - view
+    - visibility
+  styles:
+  - regular
+  - solid
+magento:
+  label: magento
+  search:
+    terms: []
+  styles:
+  - logos
+magic-wand:
+  label: magic-wand
+  search:
+    terms: []
+  styles:
+  - solid
+magnet:
+  label: magnet
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+mail-send:
+  label: mail-send
+  search:
+    terms: []
+  styles:
+  - regular
+mailchimp:
+  label: mailchimp
+  search:
+    terms: []
+  styles:
+  - logos
+male:
+  label: male
+  search:
+    terms: []
+  styles:
+  - regular
+male-female:
+  label: male-female
+  search:
+    terms: []
+  styles:
+  - regular
+male-sign:
+  label: male-sign
+  search:
+    terms: []
+  styles:
+  - regular
+map:
+  label: map
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+map-alt:
+  label: map-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+map-pin:
+  label: map-pin
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+markdown:
+  label: markdown
+  search:
+    terms: []
+  styles:
+  - logos
+mask:
+  label: mask
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+mastercard:
+  label: mastercard
+  search:
+    terms: []
+  styles:
+  - logos
+mastodon:
+  label: mastodon
+  search:
+    terms: []
+  styles:
+  - logos
+math:
+  label: math
+  search:
+    terms: []
+  styles:
+  - regular
+medal:
+  label: medal
+  search:
+    terms:
+    - honor
+    - honour
+    - acheivement
+    - honor
+    - honour
+    - acheivement
+  styles:
+  - regular
+  - solid
+medium:
+  label: medium
+  search:
+    terms: []
+  styles:
+  - logos
+medium-old:
+  label: medium-old
+  search:
+    terms: []
+  styles:
+  - logos
+medium-square:
+  label: medium-square
+  search:
+    terms: []
+  styles:
+  - logos
+megaphone:
+  label: megaphone
+  search:
+    terms: []
+  styles:
+  - solid
+meh:
+  label: meh
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+meh-alt:
+  label: meh-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+meh-blank:
+  label: meh-blank
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+memory-card:
+  label: memory-card
+  search:
+    terms:
+    - sd card
+    - storage
+    - sd card
+    - storage
+  styles:
+  - regular
+  - solid
+menu:
+  label: menu
+  search:
+    terms: []
+  styles:
+  - regular
+menu-alt-left:
+  label: menu-alt-left
+  search:
+    terms: []
+  styles:
+  - regular
+menu-alt-right:
+  label: menu-alt-right
+  search:
+    terms: []
+  styles:
+  - regular
+merge:
+  label: merge
+  search:
+    terms: []
+  styles:
+  - regular
+message:
+  label: message
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-add:
+  label: message-add
+  search:
+    terms:
+    - chat
+    - comment
+    - new
+    - plus
+    - chat
+    - comment
+    - new
+    - plus
+  styles:
+  - regular
+  - solid
+message-alt:
+  label: message-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-alt-add:
+  label: message-alt-add
+  search:
+    terms:
+    - chat
+    - comment
+    - new
+    - plus
+    - chat
+    - comment
+    - new
+    - plus
+  styles:
+  - regular
+  - solid
+message-alt-check:
+  label: message-alt-check
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-alt-detail:
+  label: message-alt-detail
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-alt-dots:
+  label: message-alt-dots
+  search:
+    terms:
+    - loading
+    - chat
+    - comment
+    - loading
+    - chat
+    - comment
+  styles:
+  - regular
+  - solid
+message-alt-edit:
+  label: message-alt-edit
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-alt-error:
+  label: message-alt-error
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-alt-minus:
+  label: message-alt-minus
+  search:
+    terms:
+    - chat
+    - comment
+    - remove
+    - delete
+    - chat
+    - comment
+    - remove
+    - delete
+  styles:
+  - regular
+  - solid
+message-alt-x:
+  label: message-alt-x
+  search:
+    terms:
+    - chat
+    - comment
+    - remove
+    - delete
+    - chat
+    - comment
+    - remove
+    - delete
+  styles:
+  - regular
+  - solid
+message-check:
+  label: message-check
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-detail:
+  label: message-detail
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-dots:
+  label: message-dots
+  search:
+    terms:
+    - loading
+    - chat
+    - comment
+    - loading
+    - chat
+    - comment
+  styles:
+  - regular
+  - solid
+message-edit:
+  label: message-edit
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-error:
+  label: message-error
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-minus:
+  label: message-minus
+  search:
+    terms:
+    - chat
+    - comment
+    - remove
+    - delete
+    - chat
+    - comment
+    - remove
+    - delete
+  styles:
+  - regular
+  - solid
+message-rounded:
+  label: message-rounded
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-rounded-add:
+  label: message-rounded-add
+  search:
+    terms:
+    - chat
+    - comment
+    - new
+    - plus
+    - chat
+    - comment
+    - new
+    - plus
+  styles:
+  - regular
+  - solid
+message-rounded-check:
+  label: message-rounded-check
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-rounded-detail:
+  label: message-rounded-detail
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-rounded-dots:
+  label: message-rounded-dots
+  search:
+    terms:
+    - loading
+    - chat
+    - comment
+    - loading
+    - chat
+    - comment
+  styles:
+  - regular
+  - solid
+message-rounded-edit:
+  label: message-rounded-edit
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-rounded-error:
+  label: message-rounded-error
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-rounded-minus:
+  label: message-rounded-minus
+  search:
+    terms:
+    - chat
+    - comment
+    - remove
+    - delete
+    - chat
+    - comment
+    - remove
+    - delete
+  styles:
+  - regular
+  - solid
+message-rounded-x:
+  label: message-rounded-x
+  search:
+    terms:
+    - chat
+    - comment
+    - remove
+    - delete
+    - chat
+    - comment
+    - remove
+    - delete
+  styles:
+  - regular
+  - solid
+message-square:
+  label: message-square
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-square-add:
+  label: message-square-add
+  search:
+    terms:
+    - chat
+    - comment
+    - new
+    - plus
+    - chat
+    - comment
+    - new
+    - plus
+  styles:
+  - regular
+  - solid
+message-square-check:
+  label: message-square-check
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-square-detail:
+  label: message-square-detail
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-square-dots:
+  label: message-square-dots
+  search:
+    terms:
+    - loading
+    - chat
+    - comment
+    - loading
+    - chat
+    - comment
+  styles:
+  - regular
+  - solid
+message-square-edit:
+  label: message-square-edit
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-square-error:
+  label: message-square-error
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+message-square-minus:
+  label: message-square-minus
+  search:
+    terms:
+    - chat
+    - comment
+    - remove
+    - delete
+    - chat
+    - comment
+    - remove
+    - delete
+  styles:
+  - regular
+  - solid
+message-square-x:
+  label: message-square-x
+  search:
+    terms:
+    - chat
+    - comment
+    - remove
+    - delete
+    - chat
+    - comment
+    - remove
+    - delete
+  styles:
+  - regular
+  - solid
+message-x:
+  label: message-x
+  search:
+    terms:
+    - chat
+    - comment
+    - remove
+    - delete
+    - chat
+    - comment
+    - remove
+    - delete
+  styles:
+  - regular
+  - solid
+messenger:
+  label: messenger
+  search:
+    terms: []
+  styles:
+  - logos
+meta:
+  label: meta
+  search:
+    terms:
+    - facebook
+    - social media
+  styles:
+  - logos
+meteor:
+  label: meteor
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+microchip:
+  label: microchip
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+microphone:
+  label: microphone
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+microphone-alt:
+  label: microphone-alt
+  search:
+    terms: []
+  styles:
+  - solid
+microphone-off:
+  label: microphone-off
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+microsoft:
+  label: microsoft
+  search:
+    terms: []
+  styles:
+  - logos
+microsoft-teams:
+  label: microsoft-teams
+  search:
+    terms: []
+  styles:
+  - logos
+minus:
+  label: minus
+  search:
+    terms: []
+  styles:
+  - regular
+minus-back:
+  label: minus-back
+  search:
+    terms: []
+  styles:
+  - regular
+minus-circle:
+  label: minus-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+minus-front:
+  label: minus-front
+  search:
+    terms: []
+  styles:
+  - regular
+minus-square:
+  label: minus-square
+  search:
+    terms: []
+  styles:
+  - solid
+mobile:
+  label: mobile
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+mobile-alt:
+  label: mobile-alt
+  search:
+    terms: []
+  styles:
+  - regular
+mobile-landscape:
+  label: mobile-landscape
+  search:
+    terms: []
+  styles:
+  - regular
+mobile-vibration:
+  label: mobile-vibration
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+money:
+  label: money
+  search:
+    terms: []
+  styles:
+  - regular
+money-withdraw:
+  label: money-withdraw
+  search:
+    terms:
+    - atm
+  styles:
+  - regular
+mongodb:
+  label: mongodb
+  search:
+    terms:
+    - database
+    - db
+  styles:
+  - logos
+moon:
+  label: moon
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+mouse:
+  label: mouse
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+mouse-alt:
+  label: mouse-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+move:
+  label: move
+  search:
+    terms: []
+  styles:
+  - regular
+move-horizontal:
+  label: move-horizontal
+  search:
+    terms: []
+  styles:
+  - regular
+move-vertical:
+  label: move-vertical
+  search:
+    terms: []
+  styles:
+  - regular
+movie:
+  label: movie
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+movie-play:
+  label: movie-play
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+music:
+  label: music
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+navigation:
+  label: navigation
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+netlify:
+  label: netlify
+  search:
+    terms: []
+  styles:
+  - logos
+network-chart:
+  label: network-chart
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+news:
+  label: news
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+no-entry:
+  label: no-entry
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+no-signal:
+  label: no-signal
+  search:
+    terms:
+    - network
+    - connection
+  styles:
+  - regular
+nodejs:
+  label: nodejs
+  search:
+    terms: []
+  styles:
+  - logos
+note:
+  label: note
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+notepad:
+  label: notepad
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+notification:
+  label: notification
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+notification-off:
+  label: notification-off
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+objects-horizontal-center:
+  label: objects-horizontal-center
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+objects-horizontal-left:
+  label: objects-horizontal-left
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+objects-horizontal-right:
+  label: objects-horizontal-right
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+objects-vertical-bottom:
+  label: objects-vertical-bottom
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+objects-vertical-center:
+  label: objects-vertical-center
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+objects-vertical-top:
+  label: objects-vertical-top
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+offer:
+  label: offer
+  search:
+    terms: []
+  styles:
+  - solid
+ok-ru:
+  label: ok-ru
+  search:
+    terms: []
+  styles:
+  - logos
+opera:
+  label: opera
+  search:
+    terms: []
+  styles:
+  - logos
+outline:
+  label: outline
+  search:
+    terms: []
+  styles:
+  - regular
+package:
+  label: package
+  search:
+    terms:
+    - box
+    - shipping
+    - delivery
+    - box
+    - shipping
+    - delivery
+  styles:
+  - regular
+  - solid
+paint:
+  label: paint
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+paint-roll:
+  label: paint-roll
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+palette:
+  label: palette
+  search:
+    terms:
+    - color
+    - colour
+    - painting
+    - color
+    - colour
+    - painting
+  styles:
+  - regular
+  - solid
+paper-plane:
+  label: paper-plane
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+paperclip:
+  label: paperclip
+  search:
+    terms: []
+  styles:
+  - regular
+paragraph:
+  label: paragraph
+  search:
+    terms: []
+  styles:
+  - regular
+parking:
+  label: parking
+  search:
+    terms: []
+  styles:
+  - solid
+party:
+  label: party
+  search:
+    terms:
+    - celebration
+    - celebration
+  styles:
+  - regular
+  - solid
+paste:
+  label: paste
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+patreon:
+  label: patreon
+  search:
+    terms: []
+  styles:
+  - logos
+pause:
+  label: pause
+  search:
+    terms: []
+  styles:
+  - regular
+pause-circle:
+  label: pause-circle
+  search:
+    terms: []
+  styles:
+  - regular
+paypal:
+  label: paypal
+  search:
+    terms: []
+  styles:
+  - logos
+pear:
+  label: pear
+  search:
+    terms: []
+  styles:
+  - solid
+pen:
+  label: pen
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+pencil:
+  label: pencil
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+periscope:
+  label: periscope
+  search:
+    terms: []
+  styles:
+  - logos
+phone:
+  label: phone
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+phone-call:
+  label: phone-call
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+phone-incoming:
+  label: phone-incoming
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+phone-off:
+  label: phone-off
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+phone-outgoing:
+  label: phone-outgoing
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+photo-album:
+  label: photo-album
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+php:
+  label: php
+  search:
+    terms: []
+  styles:
+  - logos
+piano:
+  label: piano
+  search:
+    terms: []
+  styles:
+  - solid
+pie-chart:
+  label: pie-chart
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+pie-chart-alt:
+  label: pie-chart-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+pie-chart-alt-2:
+  label: pie-chart-alt-2
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+pin:
+  label: pin
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+pinterest:
+  label: pinterest
+  search:
+    terms: []
+  styles:
+  - logos
+pinterest-alt:
+  label: pinterest-alt
+  search:
+    terms: []
+  styles:
+  - logos
+pizza:
+  label: pizza
+  search:
+    terms: []
+  styles:
+  - solid
+plane:
+  label: plane
+  search:
+    terms:
+    - flight
+    - fly
+  styles:
+  - solid
+plane-alt:
+  label: plane-alt
+  search:
+    terms:
+    - flight
+    - fly
+  styles:
+  - solid
+plane-land:
+  label: plane-land
+  search:
+    terms:
+    - flight
+    - fly
+    - landing
+  styles:
+  - solid
+plane-take-off:
+  label: plane-take-off
+  search:
+    terms:
+    - flight
+    - fly
+  styles:
+  - solid
+planet:
+  label: planet
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+play:
+  label: play
+  search:
+    terms: []
+  styles:
+  - regular
+play-circle:
+  label: play-circle
+  search:
+    terms: []
+  styles:
+  - regular
+play-store:
+  label: play-store
+  search:
+    terms: []
+  styles:
+  - logos
+playlist:
+  label: playlist
+  search:
+    terms: []
+  styles:
+  - solid
+plug:
+  label: plug
+  search:
+    terms:
+    - charging
+    - charging
+  styles:
+  - regular
+  - solid
+plus:
+  label: plus
+  search:
+    terms: []
+  styles:
+  - regular
+plus-circle:
+  label: plus-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+plus-medical:
+  label: plus-medical
+  search:
+    terms:
+    - hospital
+    - doctor
+    - medicine
+  styles:
+  - regular
+plus-square:
+  label: plus-square
+  search:
+    terms: []
+  styles:
+  - solid
+pocket:
+  label: pocket
+  search:
+    terms: []
+  styles:
+  - logos
+podcast:
+  label: podcast
+  search:
+    terms:
+    - audiobook
+    - radio
+  styles:
+  - regular
+pointer:
+  label: pointer
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+poll:
+  label: poll
+  search:
+    terms: []
+  styles:
+  - regular
+polygon:
+  label: polygon
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+popsicle:
+  label: popsicle
+  search:
+    terms:
+    - ice cream
+    - dessert
+    - ice cream
+    - dessert
+  styles:
+  - solid
+  - regular
+postgresql:
+  label: postgresql
+  search:
+    terms:
+    - database
+    - db
+    - sql
+  styles:
+  - logos
+pound:
+  label: pound
+  search:
+    terms: []
+  styles:
+  - regular
+power-off:
+  label: power-off
+  search:
+    terms: []
+  styles:
+  - regular
+printer:
+  label: printer
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+product-hunt:
+  label: product-hunt
+  search:
+    terms: []
+  styles:
+  - logos
+pulse:
+  label: pulse
+  search:
+    terms: []
+  styles:
+  - regular
+purchase-tag:
+  label: purchase-tag
+  search:
+    terms:
+    - price
+    - cost
+    - price
+    - cost
+  styles:
+  - regular
+  - solid
+purchase-tag-alt:
+  label: purchase-tag-alt
+  search:
+    terms:
+    - price
+    - cost
+    - price
+    - cost
+  styles:
+  - regular
+  - solid
+pyramid:
+  label: pyramid
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+python:
+  label: python
+  search:
+    terms: []
+  styles:
+  - logos
+qr:
+  label: qr
+  search:
+    terms: []
+  styles:
+  - regular
+qr-scan:
+  label: qr-scan
+  search:
+    terms: []
+  styles:
+  - regular
+question-mark:
+  label: question-mark
+  search:
+    terms: []
+  styles:
+  - regular
+quora:
+  label: quora
+  search:
+    terms: []
+  styles:
+  - logos
+quote-alt-left:
+  label: quote-alt-left
+  search:
+    terms: []
+  styles:
+  - solid
+quote-alt-right:
+  label: quote-alt-right
+  search:
+    terms: []
+  styles:
+  - solid
+quote-left:
+  label: quote-left
+  search:
+    terms: []
+  styles:
+  - solid
+quote-right:
+  label: quote-right
+  search:
+    terms: []
+  styles:
+  - solid
+quote-single-left:
+  label: quote-single-left
+  search:
+    terms: []
+  styles:
+  - solid
+quote-single-right:
+  label: quote-single-right
+  search:
+    terms: []
+  styles:
+  - solid
+radar:
+  label: radar
+  search:
+    terms: []
+  styles:
+  - regular
+radiation:
+  label: radiation
+  search:
+    terms:
+    - hazard
+    - danger
+  styles:
+  - solid
+radio:
+  label: radio
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+radio-circle:
+  label: radio-circle
+  search:
+    terms: []
+  styles:
+  - regular
+radio-circle-marked:
+  label: radio-circle-marked
+  search:
+    terms: []
+  styles:
+  - regular
+react:
+  label: react
+  search:
+    terms: []
+  styles:
+  - logos
+receipt:
+  label: receipt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+rectangle:
+  label: rectangle
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+recycle:
+  label: recycle
+  search:
+    terms: []
+  styles:
+  - regular
+redbubble:
+  label: redbubble
+  search:
+    terms: []
+  styles:
+  - logos
+reddit:
+  label: reddit
+  search:
+    terms:
+    - social media
+  styles:
+  - logos
+redo:
+  label: redo
+  search:
+    terms: []
+  styles:
+  - regular
+redux:
+  label: redux
+  search:
+    terms: []
+  styles:
+  - logos
+reflect-horizontal:
+  label: reflect-horizontal
+  search:
+    terms:
+    - flip
+  styles:
+  - regular
+reflect-vertical:
+  label: reflect-vertical
+  search:
+    terms:
+    - flip
+  styles:
+  - regular
+refresh:
+  label: refresh
+  search:
+    terms: []
+  styles:
+  - regular
+registered:
+  label: registered
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+rename:
+  label: rename
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+repeat:
+  label: repeat
+  search:
+    terms: []
+  styles:
+  - regular
+reply:
+  label: reply
+  search:
+    terms: []
+  styles:
+  - regular
+reply-all:
+  label: reply-all
+  search:
+    terms: []
+  styles:
+  - regular
+report:
+  label: report
+  search:
+    terms: []
+  styles:
+  - solid
+repost:
+  label: repost
+  search:
+    terms: []
+  styles:
+  - regular
+reset:
+  label: reset
+  search:
+    terms: []
+  styles:
+  - regular
+restaurant:
+  label: restaurant
+  search:
+    terms: []
+  styles:
+  - regular
+revision:
+  label: revision
+  search:
+    terms: []
+  styles:
+  - regular
+rewind:
+  label: rewind
+  search:
+    terms: []
+  styles:
+  - regular
+rewind-circle:
+  label: rewind-circle
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+rfid:
+  label: rfid
+  search:
+    terms: []
+  styles:
+  - regular
+right-arrow:
+  label: right-arrow
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+right-arrow-alt:
+  label: right-arrow-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+right-arrow-circle:
+  label: right-arrow-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+right-arrow-square:
+  label: right-arrow-square
+  search:
+    terms: []
+  styles:
+  - solid
+right-down-arrow-circle:
+  label: right-down-arrow-circle
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+right-indent:
+  label: right-indent
+  search:
+    terms: []
+  styles:
+  - regular
+right-top-arrow-circle:
+  label: right-top-arrow-circle
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+rocket:
+  label: rocket
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+rotate-left:
+  label: rotate-left
+  search:
+    terms: []
+  styles:
+  - regular
+rotate-right:
+  label: rotate-right
+  search:
+    terms: []
+  styles:
+  - regular
+rss:
+  label: rss
+  search:
+    terms: []
+  styles:
+  - regular
+ruble:
+  label: ruble
+  search:
+    terms: []
+  styles:
+  - regular
+ruler:
+  label: ruler
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+run:
+  label: run
+  search:
+    terms: []
+  styles:
+  - regular
+rupee:
+  label: rupee
+  search:
+    terms: []
+  styles:
+  - regular
+sad:
+  label: sad
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+sass:
+  label: sass
+  search:
+    terms: []
+  styles:
+  - logos
+save:
+  label: save
+  search:
+    terms:
+    - floppy disk
+    - floppy disk
+  styles:
+  - regular
+  - solid
+scan:
+  label: scan
+  search:
+    terms: []
+  styles:
+  - regular
+scatter-chart:
+  label: scatter-chart
+  search:
+    terms: []
+  styles:
+  - regular
+school:
+  label: school
+  search:
+    terms: []
+  styles:
+  - solid
+screenshot:
+  label: screenshot
+  search:
+    terms: []
+  styles:
+  - regular
+search:
+  label: search
+  search:
+    terms:
+    - magnifying glass
+    - magnifying glass
+  styles:
+  - solid
+  - regular
+search-alt:
+  label: search-alt
+  search:
+    terms:
+    - magnifying glass
+  styles:
+  - regular
+search-alt-2:
+  label: search-alt-2
+  search:
+    terms:
+    - magnifying glass
+    - magnifying glass
+  styles:
+  - regular
+  - solid
+select-multiple:
+  label: select-multiple
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+selection:
+  label: selection
+  search:
+    terms: []
+  styles:
+  - regular
+send:
+  label: send
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+server:
+  label: server
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+shape-circle:
+  label: shape-circle
+  search:
+    terms: []
+  styles:
+  - regular
+shape-polygon:
+  label: shape-polygon
+  search:
+    terms: []
+  styles:
+  - regular
+shape-square:
+  label: shape-square
+  search:
+    terms: []
+  styles:
+  - regular
+shape-triangle:
+  label: shape-triangle
+  search:
+    terms: []
+  styles:
+  - regular
+shapes:
+  label: shapes
+  search:
+    terms: []
+  styles:
+  - solid
+share:
+  label: share
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+share-alt:
+  label: share-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+shekel:
+  label: shekel
+  search:
+    terms: []
+  styles:
+  - regular
+shield:
+  label: shield
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+shield-alt:
+  label: shield-alt
+  search:
+    terms: []
+  styles:
+  - regular
+shield-alt-2:
+  label: shield-alt-2
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+shield-minus:
+  label: shield-minus
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+shield-plus:
+  label: shield-plus
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+shield-quarter:
+  label: shield-quarter
+  search:
+    terms: []
+  styles:
+  - regular
+shield-x:
+  label: shield-x
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+ship:
+  label: ship
+  search:
+    terms: []
+  styles:
+  - solid
+shocked:
+  label: shocked
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+shopify:
+  label: shopify
+  search:
+    terms: []
+  styles:
+  - logos
+shopping-bag:
+  label: shopping-bag
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+shopping-bag-alt:
+  label: shopping-bag-alt
+  search:
+    terms: []
+  styles:
+  - solid
+shopping-bags:
+  label: shopping-bags
+  search:
+    terms: []
+  styles:
+  - solid
+show:
+  label: show
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+show-alt:
+  label: show-alt
+  search:
+    terms: []
+  styles:
+  - regular
+shower:
+  label: shower
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+shuffle:
+  label: shuffle
+  search:
+    terms: []
+  styles:
+  - regular
+sidebar:
+  label: sidebar
+  search:
+    terms: []
+  styles:
+  - regular
+signal-1:
+  label: signal-1
+  search:
+    terms:
+    - network
+    - connection
+  styles:
+  - regular
+signal-2:
+  label: signal-2
+  search:
+    terms:
+    - network
+    - connection
+  styles:
+  - regular
+signal-3:
+  label: signal-3
+  search:
+    terms:
+    - network
+    - connection
+  styles:
+  - regular
+signal-4:
+  label: signal-4
+  search:
+    terms:
+    - network
+    - connection
+  styles:
+  - regular
+signal-5:
+  label: signal-5
+  search:
+    terms:
+    - network
+    - connection
+  styles:
+  - regular
+sitemap:
+  label: sitemap
+  search:
+    terms: []
+  styles:
+  - regular
+sketch:
+  label: sketch
+  search:
+    terms:
+    - web design
+  styles:
+  - logos
+skip-next:
+  label: skip-next
+  search:
+    terms: []
+  styles:
+  - regular
+skip-next-circle:
+  label: skip-next-circle
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+skip-previous:
+  label: skip-previous
+  search:
+    terms: []
+  styles:
+  - regular
+skip-previous-circle:
+  label: skip-previous-circle
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+skull:
+  label: skull
+  search:
+    terms: []
+  styles:
+  - solid
+skype:
+  label: skype
+  search:
+    terms: []
+  styles:
+  - logos
+slack:
+  label: slack
+  search:
+    terms: []
+  styles:
+  - logos
+slack-old:
+  label: slack-old
+  search:
+    terms: []
+  styles:
+  - logos
+sleepy:
+  label: sleepy
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+slider:
+  label: slider
+  search:
+    terms: []
+  styles:
+  - regular
+slider-alt:
+  label: slider-alt
+  search:
+    terms: []
+  styles:
+  - regular
+slideshow:
+  label: slideshow
+  search:
+    terms:
+    - presentation
+    - keynote
+    - presentation
+    - keynote
+  styles:
+  - regular
+  - solid
+smile:
+  label: smile
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+snapchat:
+  label: snapchat
+  search:
+    terms: []
+  styles:
+  - logos
+sort:
+  label: sort
+  search:
+    terms: []
+  styles:
+  - regular
+sort-a-z:
+  label: sort-a-z
+  search:
+    terms: []
+  styles:
+  - regular
+sort-alt:
+  label: sort-alt
+  search:
+    terms: []
+  styles:
+  - solid
+sort-alt-2:
+  label: sort-alt-2
+  search:
+    terms: []
+  styles:
+  - regular
+sort-down:
+  label: sort-down
+  search:
+    terms: []
+  styles:
+  - regular
+sort-up:
+  label: sort-up
+  search:
+    terms: []
+  styles:
+  - regular
+sort-z-a:
+  label: sort-z-a
+  search:
+    terms: []
+  styles:
+  - regular
+soundcloud:
+  label: soundcloud
+  search:
+    terms: []
+  styles:
+  - logos
+spa:
+  label: spa
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+space-bar:
+  label: space-bar
+  search:
+    terms: []
+  styles:
+  - regular
+speaker:
+  label: speaker
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+spotify:
+  label: spotify
+  search:
+    terms: []
+  styles:
+  - logos
+spray-can:
+  label: spray-can
+  search:
+    terms:
+    - color
+    - colour
+    - paint spray
+    - color
+    - colour
+    - paint spray
+  styles:
+  - regular
+  - solid
+spreadsheet:
+  label: spreadsheet
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+spring-boot:
+  label: spring-boot
+  search:
+    terms: []
+  styles:
+  - logos
+square:
+  label: square
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+square-rounded:
+  label: square-rounded
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+squarespace:
+  label: squarespace
+  search:
+    terms: []
+  styles:
+  - logos
+stack-overflow:
+  label: stack-overflow
+  search:
+    terms: []
+  styles:
+  - logos
+star:
+  label: star
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+star-half:
+  label: star-half
+  search:
+    terms: []
+  styles:
+  - solid
+station:
+  label: station
+  search:
+    terms: []
+  styles:
+  - regular
+stats:
+  label: stats
+  search:
+    terms: []
+  styles:
+  - regular
+steam:
+  label: steam
+  search:
+    terms: []
+  styles:
+  - logos
+sticker:
+  label: sticker
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+stop:
+  label: stop
+  search:
+    terms: []
+  styles:
+  - regular
+stop-circle:
+  label: stop-circle
+  search:
+    terms: []
+  styles:
+  - regular
+stopwatch:
+  label: stopwatch
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+store:
+  label: store
+  search:
+    terms:
+    - shop
+    - market
+    - shop
+    - market
+  styles:
+  - regular
+  - solid
+store-alt:
+  label: store-alt
+  search:
+    terms:
+    - shop
+    - market
+    - shop
+    - market
+  styles:
+  - regular
+  - solid
+street-view:
+  label: street-view
+  search:
+    terms: []
+  styles:
+  - regular
+strikethrough:
+  label: strikethrough
+  search:
+    terms: []
+  styles:
+  - regular
+stripe:
+  label: stripe
+  search:
+    terms: []
+  styles:
+  - logos
+subdirectory-left:
+  label: subdirectory-left
+  search:
+    terms: []
+  styles:
+  - regular
+subdirectory-right:
+  label: subdirectory-right
+  search:
+    terms: []
+  styles:
+  - regular
+sun:
+  label: sun
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+support:
+  label: support
+  search:
+    terms: []
+  styles:
+  - regular
+sushi:
+  label: sushi
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+swim:
+  label: swim
+  search:
+    terms: []
+  styles:
+  - regular
+sync:
+  label: sync
+  search:
+    terms: []
+  styles:
+  - regular
+t-shirt:
+  label: t-shirt
+  search:
+    terms: []
+  styles:
+  - solid
+tab:
+  label: tab
+  search:
+    terms: []
+  styles:
+  - regular
+table:
+  label: table
+  search:
+    terms: []
+  styles:
+  - regular
+tachometer:
+  label: tachometer
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+tag:
+  label: tag
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+tag-alt:
+  label: tag-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+tag-x:
+  label: tag-x
+  search:
+    terms: []
+  styles:
+  - solid
+tailwind-css:
+  label: tailwind-css
+  search:
+    terms: []
+  styles:
+  - logos
+target-lock:
+  label: target-lock
+  search:
+    terms: []
+  styles:
+  - regular
+task:
+  label: task
+  search:
+    terms: []
+  styles:
+  - regular
+task-x:
+  label: task-x
+  search:
+    terms: []
+  styles:
+  - regular
+taxi:
+  label: taxi
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+telegram:
+  label: telegram
+  search:
+    terms: []
+  styles:
+  - logos
+tennis-ball:
+  label: tennis-ball
+  search:
+    terms:
+    - deuce
+    - deuce
+  styles:
+  - regular
+  - solid
+terminal:
+  label: terminal
+  search:
+    terms:
+    - command line
+    - command line
+  styles:
+  - regular
+  - solid
+test-tube:
+  label: test-tube
+  search:
+    terms: []
+  styles:
+  - regular
+text:
+  label: text
+  search:
+    terms: []
+  styles:
+  - regular
+thermometer:
+  label: thermometer
+  search:
+    terms: []
+  styles:
+  - solid
+tiktok:
+  label: tiktok
+  search:
+    terms:
+    - social media
+    - entertainment
+  styles:
+  - logos
+time:
+  label: time
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+time-five:
+  label: time-five
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+timer:
+  label: timer
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+tired:
+  label: tired
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+to-top:
+  label: to-top
+  search:
+    terms: []
+  styles:
+  - solid
+toggle-left:
+  label: toggle-left
+  search:
+    terms:
+    - switch
+    - switch
+  styles:
+  - regular
+  - solid
+toggle-right:
+  label: toggle-right
+  search:
+    terms:
+    - switch
+    - switch
+  styles:
+  - regular
+  - solid
+tone:
+  label: tone
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+torch:
+  label: torch
+  search:
+    terms: []
+  styles:
+  - solid
+traffic:
+  label: traffic
+  search:
+    terms: []
+  styles:
+  - solid
+traffic-barrier:
+  label: traffic-barrier
+  search:
+    terms: []
+  styles:
+  - solid
+traffic-cone:
+  label: traffic-cone
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+train:
+  label: train
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+transfer:
+  label: transfer
+  search:
+    terms: []
+  styles:
+  - regular
+transfer-alt:
+  label: transfer-alt
+  search:
+    terms: []
+  styles:
+  - regular
+trash:
+  label: trash
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+trash-alt:
+  label: trash-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+tree:
+  label: tree
+  search:
+    terms:
+    - forest
+    - christmas
+  styles:
+  - solid
+tree-alt:
+  label: tree-alt
+  search:
+    terms:
+    - forest
+    - christmas
+  styles:
+  - solid
+trello:
+  label: trello
+  search:
+    terms: []
+  styles:
+  - logos
+trending-down:
+  label: trending-down
+  search:
+    terms: []
+  styles:
+  - regular
+trending-up:
+  label: trending-up
+  search:
+    terms: []
+  styles:
+  - regular
+trim:
+  label: trim
+  search:
+    terms: []
+  styles:
+  - regular
+trip:
+  label: trip
+  search:
+    terms: []
+  styles:
+  - regular
+trip-advisor:
+  label: trip-advisor
+  search:
+    terms:
+    - travel
+  styles:
+  - logos
+trophy:
+  label: trophy
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+truck:
+  label: truck
+  search:
+    terms: []
+  styles:
+  - solid
+tumblr:
+  label: tumblr
+  search:
+    terms: []
+  styles:
+  - logos
+tux:
+  label: tux
+  search:
+    terms: []
+  styles:
+  - logos
+tv:
+  label: tv
+  search:
+    terms:
+    - television
+    - monitor
+    - television
+    - monitor
+  styles:
+  - regular
+  - solid
+twitch:
+  label: twitch
+  search:
+    terms: []
+  styles:
+  - logos
+twitter:
+  label: twitter
+  search:
+    terms:
+    - social media
+  styles:
+  - logos
+typescript:
+  label: typescript
+  search:
+    terms: []
+  styles:
+  - logos
+underline:
+  label: underline
+  search:
+    terms: []
+  styles:
+  - regular
+undo:
+  label: undo
+  search:
+    terms: []
+  styles:
+  - regular
+unite:
+  label: unite
+  search:
+    terms: []
+  styles:
+  - regular
+unity:
+  label: unity
+  search:
+    terms: []
+  styles:
+  - logos
+universal-access:
+  label: universal-access
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+unlink:
+  label: unlink
+  search:
+    terms: []
+  styles:
+  - regular
+unsplash:
+  label: unsplash
+  search:
+    terms: []
+  styles:
+  - logos
+up-arrow:
+  label: up-arrow
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+up-arrow-alt:
+  label: up-arrow-alt
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+up-arrow-circle:
+  label: up-arrow-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+up-arrow-square:
+  label: up-arrow-square
+  search:
+    terms: []
+  styles:
+  - solid
+upload:
+  label: upload
+  search:
+    terms: []
+  styles:
+  - regular
+upside-down:
+  label: upside-down
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+upvote:
+  label: upvote
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+upwork:
+  label: upwork
+  search:
+    terms: []
+  styles:
+  - logos
+usb:
+  label: usb
+  search:
+    terms: []
+  styles:
+  - regular
+user:
+  label: user
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+user-account:
+  label: user-account
+  search:
+    terms: []
+  styles:
+  - solid
+user-badge:
+  label: user-badge
+  search:
+    terms: []
+  styles:
+  - solid
+user-check:
+  label: user-check
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+user-circle:
+  label: user-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+user-detail:
+  label: user-detail
+  search:
+    terms: []
+  styles:
+  - solid
+user-minus:
+  label: user-minus
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+user-pin:
+  label: user-pin
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+user-plus:
+  label: user-plus
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+user-rectangle:
+  label: user-rectangle
+  search:
+    terms: []
+  styles:
+  - solid
+user-voice:
+  label: user-voice
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+user-x:
+  label: user-x
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+vector:
+  label: vector
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+venmo:
+  label: venmo
+  search:
+    terms: []
+  styles:
+  - logos
+vertical-bottom:
+  label: vertical-bottom
+  search:
+    terms: []
+  styles:
+  - regular
+vertical-center:
+  label: vertical-center
+  search:
+    terms: []
+  styles:
+  - regular
+vertical-top:
+  label: vertical-top
+  search:
+    terms: []
+  styles:
+  - regular
+vial:
+  label: vial
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+video:
+  label: video
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+video-off:
+  label: video-off
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+video-plus:
+  label: video-plus
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+video-recording:
+  label: video-recording
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+videos:
+  label: videos
+  search:
+    terms: []
+  styles:
+  - solid
+vimeo:
+  label: vimeo
+  search:
+    terms: []
+  styles:
+  - logos
+virus:
+  label: virus
+  search:
+    terms:
+    - disease
+    - covid
+    - corona
+  styles:
+  - solid
+virus-block:
+  label: virus-block
+  search:
+    terms: []
+  styles:
+  - solid
+visa:
+  label: visa
+  search:
+    terms: []
+  styles:
+  - logos
+visual-studio:
+  label: visual-studio
+  search:
+    terms: []
+  styles:
+  - logos
+vk:
+  label: vk
+  search:
+    terms:
+    - social media
+  styles:
+  - logos
+voicemail:
+  label: voicemail
+  search:
+    terms: []
+  styles:
+  - regular
+volume:
+  label: volume
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+volume-full:
+  label: volume-full
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+volume-low:
+  label: volume-low
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+volume-mute:
+  label: volume-mute
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+vuejs:
+  label: vuejs
+  search:
+    terms: []
+  styles:
+  - logos
+walk:
+  label: walk
+  search:
+    terms: []
+  styles:
+  - regular
+wallet:
+  label: wallet
+  search:
+    terms:
+    - money
+    - money
+  styles:
+  - regular
+  - solid
+wallet-alt:
+  label: wallet-alt
+  search:
+    terms:
+    - money
+    - money
+  styles:
+  - regular
+  - solid
+washer:
+  label: washer
+  search:
+    terms: []
+  styles:
+  - solid
+watch:
+  label: watch
+  search:
+    terms: []
+  styles:
+  - solid
+watch-alt:
+  label: watch-alt
+  search:
+    terms: []
+  styles:
+  - solid
+water:
+  label: water
+  search:
+    terms: []
+  styles:
+  - regular
+webcam:
+  label: webcam
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+whatsapp:
+  label: whatsapp
+  search:
+    terms: []
+  styles:
+  - logos
+whatsapp-square:
+  label: whatsapp-square
+  search:
+    terms: []
+  styles:
+  - logos
+widget:
+  label: widget
+  search:
+    terms: []
+  styles:
+  - solid
+wifi:
+  label: wifi
+  search:
+    terms: []
+  styles:
+  - regular
+wifi-0:
+  label: wifi-0
+  search:
+    terms: []
+  styles:
+  - regular
+wifi-1:
+  label: wifi-1
+  search:
+    terms: []
+  styles:
+  - regular
+wifi-2:
+  label: wifi-2
+  search:
+    terms: []
+  styles:
+  - regular
+wifi-off:
+  label: wifi-off
+  search:
+    terms: []
+  styles:
+  - regular
+wikipedia:
+  label: wikipedia
+  search:
+    terms: []
+  styles:
+  - logos
+wind:
+  label: wind
+  search:
+    terms:
+    - breeze
+    - gust
+    - air
+  styles:
+  - regular
+window:
+  label: window
+  search:
+    terms:
+    - browser
+  styles:
+  - regular
+window-alt:
+  label: window-alt
+  search:
+    terms:
+    - browser
+    - browser
+  styles:
+  - regular
+  - solid
+window-close:
+  label: window-close
+  search:
+    terms: []
+  styles:
+  - regular
+window-open:
+  label: window-open
+  search:
+    terms: []
+  styles:
+  - regular
+windows:
+  label: windows
+  search:
+    terms:
+    - browser
+    - browser
+  styles:
+  - regular
+  - logos
+wine:
+  label: wine
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+wink-smile:
+  label: wink-smile
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+wink-tongue:
+  label: wink-tongue
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+wix:
+  label: wix
+  search:
+    terms: []
+  styles:
+  - logos
+won:
+  label: won
+  search:
+    terms: []
+  styles:
+  - regular
+wordpress:
+  label: wordpress
+  search:
+    terms: []
+  styles:
+  - logos
+world:
+  label: world
+  search:
+    terms: []
+  styles:
+  - regular
+wrench:
+  label: wrench
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+x:
+  label: x
+  search:
+    terms: []
+  styles:
+  - regular
+x-circle:
+  label: x-circle
+  search:
+    terms: []
+  styles:
+  - regular
+  - solid
+x-square:
+  label: x-square
+  search:
+    terms: []
+  styles:
+  - solid
+xing:
+  label: xing
+  search:
+    terms:
+    - search
+  styles:
+  - logos
+yahoo:
+  label: yahoo
+  search:
+    terms: []
+  styles:
+  - logos
+yelp:
+  label: yelp
+  search:
+    terms: []
+  styles:
+  - logos
+yen:
+  label: yen
+  search:
+    terms: []
+  styles:
+  - regular
+yin-yang:
+  label: yin-yang
+  search:
+    terms: []
+  styles:
+  - solid
+youtube:
+  label: youtube
+  search:
+    terms: []
+  styles:
+  - logos
+zap:
+  label: zap
+  search:
+    terms:
+    - bolt
+  styles:
+  - solid
+zoom:
+  label: zoom
+  search:
+    terms: []
+  styles:
+  - logos
+zoom-in:
+  label: zoom-in
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
+zoom-out:
+  label: zoom-out
+  search:
+    terms: []
+  styles:
+  - solid
+  - regular
